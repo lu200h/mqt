@@ -1,0 +1,33 @@
+.w-15{
+    width: 15%;
+}
+.w-10{
+    width: 10%;
+}
+.espaco{
+    margin: 4% 10% 4% 10%;
+}
+.p-tamanho{
+    text-align: justify;
+    font-size: 20px;
+}
+.mgt{
+    margin-top: 3%;
+}
+.n{
+    text-align: none;
+}
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;           /* altura do rodapé */
+  }
+
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    
+    
+}
